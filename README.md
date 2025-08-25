@@ -49,5 +49,5 @@ and generating output plots and dashboards.
 
 ## 📧 Contact
 Maintained by Tanvi Kaurwar  
-- [LinkedIn](https://www.linkedin.com/in/tanvikaurwar/)  
+- [LinkedIn]([https://www.linkedin.com/in/tanvikaurwar/](https://www.linkedin.com/in/tanvi-kaurwar-779b501b0/))  
 - [Email](mailto:tanvimk11@gmail.com)
